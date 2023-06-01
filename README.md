@@ -6,7 +6,7 @@ The week 05 challenge was to create a daily scheduler that was dynamically gener
 
 ## GitHub Pages
 
-Visit the GitHub pages link to see website: COMING SOON
+Visit the GitHub pages link to see website: [Workday Scheduler](https://torvec.github.io/challenge_5_Workday_Scheduler/)
 
 ## Visuals
 
