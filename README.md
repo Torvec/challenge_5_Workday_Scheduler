@@ -12,10 +12,6 @@ Visit the GitHub pages link to see website: [Workday Scheduler](https://torvec.g
 
 COMING SOON!
 
-## Installation
-
-N/A
-
 ## Usage
 
 This page is used for grading purposes by the UC Berkley coding bootcamp staff.
@@ -23,23 +19,17 @@ This page is used for grading purposes by the UC Berkley coding bootcamp staff.
 ## Credits
 
 - Starter Code: [Crispy-octo-meme](https://github.com/coding-boot-camp/crispy-octo-meme)
+- DayJS: [DayJS](https://day.js.org/)
+- jQuery: [jQuery](https://jquery.com/)
+- Bootstrap: [Bootstrap](https://getbootstrap.com/)
+- Font Awesome: [Font Awesome](https://fontawesome.com/)
+- Google Fonts: [Google Fonts](https://fonts.google.com/)
 - Edward Von Schondorf
-
-## License
-
-N/A
-
-## Badges
-
-N/A
 
 ## Features
 
-- 
-
-## How to Contribute
-
-N/A
+- A 9AM to 5PM daily scheduler that is will keep track of the current time and adjust the color of the hour blocks accordingly.
+- User inputs will be saved in the local storage of the browser and remain there until it is cleared.
 
 ## Project Status
 
