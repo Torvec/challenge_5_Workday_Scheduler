@@ -53,6 +53,12 @@ textarea {
   color: white;
 }
 
+.clearBtn {
+  border-radius: 15px;
+  background-color: #ff6961;
+  color: white;
+}
+
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
