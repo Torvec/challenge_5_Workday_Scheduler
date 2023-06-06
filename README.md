@@ -10,7 +10,7 @@ Visit the GitHub pages link to see website: [Workday Scheduler](https://torvec.g
 
 ## Visuals
 
-COMING SOON!
+![Workday Scheduler](./assets/img/site_screen_shot.png)
 
 ## Usage
 

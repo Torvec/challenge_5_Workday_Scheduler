@@ -65,7 +65,7 @@ $(function () {
 
   // Create the clear button
   var clearButtonDiv = $('<div>').addClass('row');
-  var clearButton = $('<button>').addClass('btn clearBtn col-4 col-md-1 mx-auto mt-3').attr('aria-label', 'clear').text('Clear Schedule');
+  var clearButton = $('<button>').addClass('btn clearBtn col-4 col-md-2 mx-auto mt-3').attr('aria-label', 'clear').text('Clear Schedule');
   $(clearButtonDiv).append(clearButton);
   $(container).append(clearButtonDiv);
 
