@@ -1,4 +1,5 @@
-# Bootcamp-Week-05-Challenge
+# Workday Scheduler
+A UC Berkley Full Stack Web Development Bootcamp Week 05 Challenge
 
 ## Description
 
@@ -33,4 +34,4 @@ This page is used for grading purposes by the UC Berkley coding bootcamp staff.
 
 ## Project Status
 
-Work In Progress
+Completed June 2023
